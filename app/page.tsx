@@ -15,7 +15,7 @@ export default function Page() {
       {/* ... */}
       <div className="mt-4 flex grow flex-col gap-4 md:flex-row ">
         <div className="flex flex-col justify-center gap-6 rounded-lg bg-gray-50 px-6 py-10 md:w-2/5 md:px-20 ">
-          <div>test</div>
+          <div>test teat</div>
           <div className="h-10 w-100  bg-black"></div>
           <div className={styles.triangle}></div>
           <div className="h-10 w-10  bg-black"></div>
